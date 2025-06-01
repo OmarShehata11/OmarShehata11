@@ -2,9 +2,6 @@
   <img src="./tenor.gif" width="600"/>
 </p>
 
-<!-- 📈 Most Commit Language (Theme: gruvbox_light) -->
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarShehata11&theme=gruvbox_light)
-
 - 👋 Hi, I’m 0xefe4
 - 🎓 Master’s student in Computer Science @ University of Passau
 - 👀 I’m interested in Security research & low-level systems enthusiast & Windows kernel driver development
