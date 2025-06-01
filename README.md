@@ -21,17 +21,9 @@
 <!-- 📊 General GitHub Stats (Theme: monokai) -->
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarShehata11&theme=monokai)
 
-<!-- ⏰ Productive Time (Theme: dracula) -->
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarShehata11&theme=dracula)
-
 <!-- 🏷️ Repositories By Topic (Theme: nord_dark) -->
 ![Repos By Topic](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-topic?username=OmarShehata11&theme=nord_dark)
 
-<!-- 🔁 GitHub Streak (Theme: gruvbox) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarShehata11&theme=gruvbox&hide_border=true)
-
-<!-- 🏆 GitHub Trophies (Theme: onedark) -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=OmarShehata11&theme=onedark&no-frame=true&no-bg=true&margin-w=10)
 
 
 
@@ -40,39 +32,18 @@
 🛡️ Security researcher & low-level systems enthusiast  
 🇪🇬 Based in Egypt | Always learning, always shipping
 
----
-
-## 🧠 What I Do
-
-I specialize in:
-- Reverse engineering and system internals
-- Windows kernel driver development (WDM, MiniFilter, IOCP, IRP cancelation, etc.)
-- Rootkits, EDRs, and hypervisor-based security tooling
-- Malware behavior analysis and low-level debugging
-
----
-
-## 🔩 Tech & Tools
-
-| Language/Skill              | Proficiency        |
-|----------------------------|--------------------|
-| C / C++ (Kernel Dev)        | ★★★★★             |
-| Windows Internals (NT, IRP, EPROCESS, DKOM) | ★★★★★ |
-| Reverse Engineering (x86/x64, IDA, x64dbg) | ★★★★☆ |
-| Malware Analysis            | ★★★☆☆             |
-| Assembly (x86/x64)          | ★★★☆☆             |
-| Python                      | ★★★☆☆             |
-
-🛠️ Tools I use regularly:  
-IDA Pro, WinDbg, x64dbg, PE-bear, Process Hacker, Procmon, VS Code, Hyper-V, VMware, MiniHook
-
+👋 Hi, I’m 0xefe4
+🎓 Master’s student in Computer Science @ University of Passau
+👀 I’m interested in Security research & low-level systems enthusiast & Windows kernel driver development
+🌱 I’m currently learning about many things $ Rootkits, EDRs, and hypervisor-based security tooling
+💞️ I’m looking to collaborate on security solutions projects.
 ---
 
 ## 📫 Get in Touch
 
 Want to collaborate on system security projects, learn about low-level internals, or build something powerful?
 
-- 📬 Email: omar2014.oa98@gmail.com  
+- 📬 Email: [omar2014.oa98@gmail.com](mailto:omar2014.oa98@gmail.com)  
 - 💼 LinkedIn: [Omar Shehata](https://linkedin.com/in/efe4)  
 
 ---
