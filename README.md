@@ -12,6 +12,30 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarShehata11&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarShehata11&theme=github_dark)
 
+<!-- Profile Summary Card -->
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarShehata11&theme=github_dark)
+
+<!-- Most Used Languages (by repo size) -->
+![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarShehata11&theme=github_dark)
+
+<!-- Most Commit Language (by commit count) -->
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarShehata11&theme=github_dark)
+
+<!-- General GitHub Stats -->
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarShehata11&theme=github_dark)
+
+<!-- Productive Time (when you commit most) -->
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarShehata11&theme=github_dark)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarShehata11&theme=github-dark&hide_border=true)
+
+<!-- GitHub Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OmarShehata11&theme=github_dark&no-frame=true&no-bg=true&margin-w=10)
+
+
+
+
 🎓 Master’s student in Computer Science @ University of Passau  
 🛡️ Security researcher & low-level systems enthusiast  
 🇪🇬 Based in Egypt | Always learning, always shipping
