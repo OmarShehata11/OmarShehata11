@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I’m Omar Shehata 👋
 
-<!--
-**OmarShehata11/OmarShehata11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s student in Computer Science @ University of Passau  
+🛡️ Security researcher & low-level systems enthusiast  
+🇪🇬 Based in Egypt | Always learning, always shipping
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+
+I specialize in:
+- Reverse engineering and system internals
+- Windows kernel driver development (WDM, MiniFilter, IOCP, IRP cancelation, etc.)
+- Rootkits, EDRs, and hypervisor-based security tooling
+- Malware behavior analysis and low-level debugging
+
+---
+
+## 🔩 Tech & Tools
+
+| Language/Skill              | Proficiency        |
+|----------------------------|--------------------|
+| C / C++ (Kernel Dev)        | ★★★★★             |
+| Windows Internals (NT, IRP, EPROCESS, DKOM) | ★★★★★ |
+| Reverse Engineering (x86/x64, IDA, x64dbg) | ★★★★☆ |
+| Malware Analysis            | ★★★☆☆             |
+| Assembly (x86/x64)          | ★★★☆☆             |
+| Python                      | ★★★☆☆             |
+
+🛠️ Tools I use regularly:  
+IDA Pro, WinDbg, x64dbg, PE-bear, Process Hacker, Procmon, VS Code, Hyper-V, VMware, MiniHook
+
+---
+
+## 📫 Get in Touch
+
+Want to collaborate on system security projects, learn about low-level internals, or build something powerful?
+
+- 📬 Email: omar2014.oa98@gmail.com  
+- 💼 LinkedIn: [Omar Shehata](https://linkedin.com/in/efe4)  
+
+---
+
+*“Low-level isn’t low effort — it’s precision engineering.”*
