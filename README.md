@@ -1,7 +1,7 @@
 # Hi, I’m Omar Shehata 👋
 
 
-![AOT Hype](https://tenor.com/bwYMZ.gif)
+[![AOT Hype](https://tenor.com/bwYMZ.gif)](https://tenor.com/bwYMZ.gif)
 
 🎓 Master’s student in Computer Science @ University of Passau  
 🛡️ Security researcher & low-level systems enthusiast  
