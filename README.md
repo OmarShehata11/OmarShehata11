@@ -9,6 +9,9 @@
   <img src="./tenor.gif" width="600"/>
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarShehata11&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarShehata11&theme=github_dark)
+
 🎓 Master’s student in Computer Science @ University of Passau  
 🛡️ Security researcher & low-level systems enthusiast  
 🇪🇬 Based in Egypt | Always learning, always shipping
