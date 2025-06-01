@@ -1,7 +1,7 @@
 # Hi, I’m Omar Shehata 👋
 
-<div class="tenor-gif-embed" data-postid="20214159" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/attack-on-titan-season3-eren-mikasa-armin-gif-20214159">Attack On Titan Season3 GIF</a>from <a href="https://tenor.com/search/attack+on+titan-gifs">Attack On Titan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+![AOT Hype]([https://media.tenor.com/XYZ123abcAAA.gif](https://media1.tenor.com/m/QYhcTpnZB0QAAAAC/attack-on-titan-season3.gif))
 
 🎓 Master’s student in Computer Science @ University of Passau  
 🛡️ Security researcher & low-level systems enthusiast  
