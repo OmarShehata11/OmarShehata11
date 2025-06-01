@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on security solutions projects.
 
 ## 📫 Get in Touch
-Want to collaborate on system security projects, learn about low-level internals, or build something powerful?
+Want to collaborate on system security projects?
 
 - 📬 Email: [omar2014.oa98@gmail.com](mailto:omar2014.oa98@gmail.com)  
 - 💼 LinkedIn: [Omar Shehata](https://linkedin.com/in/efe4)  
