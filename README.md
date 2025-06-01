@@ -1,7 +1,7 @@
 # Hi, I’m Omar Shehata 👋
 
-![image](https://github.com/user-attachments/assets/428991ea-7003-49b8-b0dd-30794453ac36.gif)
 
+![Giphy GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmloYzMweTRqcHdxd2E2aGowdmVmOWw1aGE4YnY4N29sbXFpMXFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxRzKdyBuepEehcC0R/giphy.gif)
 
 
 <p align="center"><em>Let's go beyond limits — one syscall at a time.</em></p>
