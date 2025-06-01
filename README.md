@@ -1,8 +1,7 @@
 # Hi, I’m Omar Shehata 👋
 
 
-[![?](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmloYzMweTRqcHdxd2E2aGowdmVmOWw1aGE4YnY4N29sbXFpMXFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxRzKdyBuepEehcC0R/giphy.gif)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmloYzMweTRqcHdxd2E2aGowdmVmOWw1aGE4YnY4N29sbXFpMXFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxRzKdyBuepEehcC0R/giphy.gif)
-
+[![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)](https://tryhackme.com/r/p/0xVh4Ck)
 <p align="center"><em>Let's go beyond limits — one syscall at a time.</em></p>
 
 
