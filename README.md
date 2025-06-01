@@ -1,6 +1,6 @@
-# Hi, I’m Omar Shehata 👋
+[# Hi, I’m Omar Shehata 👋
 
-![image](https://github.com/user-attachments/assets/2c9d0ef2-4187-4ac7-b088-41dd8e5ce1a6)
+![gif](https://c.tenor.com/QYhcTpnZB0QAAAAC/tenor.gif)
 
 
 
@@ -49,3 +49,4 @@ Want to collaborate on system security projects, learn about low-level internals
 ---
 
 *“Low-level isn’t low effort — it’s precision engineering.”*
+](https://c.tenor.com/QYhcTpnZB0QAAAAC/tenor.gif)
