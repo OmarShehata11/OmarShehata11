@@ -5,9 +5,9 @@
 
 <p align="center"><em>Let's go beyond limits — one syscall at a time.</em></p>
 
-
-[![Disas](./tenor.gif)](./tenor.gif)
-
+<p align="center">
+  <img src="./tenor.gif" width="600"/>
+</p>
 
 🎓 Master’s student in Computer Science @ University of Passau  
 🛡️ Security researcher & low-level systems enthusiast  
