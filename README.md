@@ -1,9 +1,7 @@
 # Hi, I’m Omar Shehata 👋
 
+![image](https://github.com/user-attachments/assets/5c2e78a2-efaf-4c95-befd-52641b0d46bb)
 
-<p align="center">
-  <img src="https://tenor.com/bwYMZ.gif" alt="Attack on Titan Hype" width="600"/>
-</p>
 
 <p align="center"><em>Let's go beyond limits — one syscall at a time.</em></p>
 
