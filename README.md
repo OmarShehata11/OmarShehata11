@@ -1,7 +1,8 @@
 [# Hi, I’m Omar Shehata 👋
 
-![Alt Text](https://c.tenor.com/QYhcTpnZB0QAAAAC/tenor.gif)
-
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25mcDU2M2h4dDd0YzJzazFid3h3c21rYjVncWg4ZW1xeno1bnNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxRzKdyBuepEehcC0R/giphy.gif" alt="Attack on Titan Hype" width="600"/>
+</p>
 
 
 <p align="center"><em>Let's go beyond limits — one syscall at a time.</em></p>
