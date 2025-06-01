@@ -1,8 +1,6 @@
 [# Hi, I’m Omar Shehata 👋
 
-<p align="center">
-  <img src="https://c.tenor.com/QYhcTpnZB0QAAAAC/tenor.gif" alt="Attack on Titan Hype" width="600"/>
-</p>
+![Alt Text](https://c.tenor.com/QYhcTpnZB0QAAAAC/tenor.gif)
 
 
 
