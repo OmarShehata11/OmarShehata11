@@ -1,7 +1,7 @@
 # Hi, I’m Omar Shehata 👋
 
 
-![AOT Hype](https://media1.tenor.com/m/QYhcTpnZB0QAAAAC/attack-on-titan-season3.gif)
+![AOT Hype](https://tenor.com/bwYMZ.gif)
 
 🎓 Master’s student in Computer Science @ University of Passau  
 🛡️ Security researcher & low-level systems enthusiast  
