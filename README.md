@@ -6,7 +6,7 @@
 <p align="center"><em>Let's go beyond limits — one syscall at a time.</em></p>
 
 
-![MasterHead]("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmloYzMweTRqcHdxd2E2aGowdmVmOWw1aGE4YnY4N29sbXFpMXFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxRzKdyBuepEehcC0R/giphy.gif")
+[![Disas](./tenor.gif)](./tenor.gif)
 
 
 🎓 Master’s student in Computer Science @ University of Passau  
