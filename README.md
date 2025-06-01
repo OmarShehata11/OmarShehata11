@@ -1,7 +1,12 @@
 # Hi, I’m Omar Shehata 👋
 
 
-[![AOT Hype](https://tenor.com/bwYMZ.gif)](https://tenor.com/bwYMZ.gif)
+<p align="center">
+  <img src="https://tenor.com/bwYMZ.gif" alt="Attack on Titan Hype" width="600"/>
+</p>
+
+<p align="center"><em>Let's go beyond limits — one syscall at a time.</em></p>
+
 
 🎓 Master’s student in Computer Science @ University of Passau  
 🛡️ Security researcher & low-level systems enthusiast  
