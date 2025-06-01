@@ -9,29 +9,29 @@
   <img src="./tenor.gif" width="600"/>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarShehata11&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarShehata11&theme=github_dark)
+<!-- 🧍 Profile Details (Theme: tokyonight) -->
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarShehata11&theme=tokyonight)
 
-<!-- Profile Summary Card -->
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarShehata11&theme=github_dark)
+<!-- 📦 Repos Per Language (Theme: solarized) -->
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarShehata11&theme=solarized)
 
-<!-- Most Used Languages (by repo size) -->
-![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarShehata11&theme=github_dark)
+<!-- 📈 Most Commit Language (Theme: gruvbox_light) -->
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarShehata11&theme=gruvbox_light)
 
-<!-- Most Commit Language (by commit count) -->
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarShehata11&theme=github_dark)
+<!-- 📊 General GitHub Stats (Theme: monokai) -->
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarShehata11&theme=monokai)
 
-<!-- General GitHub Stats -->
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarShehata11&theme=github_dark)
+<!-- ⏰ Productive Time (Theme: dracula) -->
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarShehata11&theme=dracula)
 
-<!-- Productive Time (when you commit most) -->
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarShehata11&theme=github_dark)
+<!-- 🏷️ Repositories By Topic (Theme: nord_dark) -->
+![Repos By Topic](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-topic?username=OmarShehata11&theme=nord_dark)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarShehata11&theme=github-dark&hide_border=true)
+<!-- 🔁 GitHub Streak (Theme: gruvbox) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmarShehata11&theme=gruvbox&hide_border=true)
 
-<!-- GitHub Trophies -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OmarShehata11&theme=github_dark&no-frame=true&no-bg=true&margin-w=10)
+<!-- 🏆 GitHub Trophies (Theme: onedark) -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=OmarShehata11&theme=onedark&no-frame=true&no-bg=true&margin-w=10)
 
 
 
