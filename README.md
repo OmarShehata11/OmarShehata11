@@ -6,7 +6,7 @@
 - 🎓 Master’s student in Computer Science @ University of Passau
 - 👀 I’m interested in Security research & low-level systems & Windows kernel driver development
 - 🌱 I’m currently learning about many things $ Rootkits, EDRs, and hypervisor-based security tooling
-- 🏃‍➡️ I'm currently building an EDR solution: **KernelLover EDR (KLEDR)**
+- 🏃‍➡️ I'm currently building an EDR solution: **KernelLover EDR (KLEDR)** & IDS Solution for Raspberry Pi: **Loki IDS** 
 - 💞️ I’m looking to collaborate on security solutions projects.
 
 ## 📫 Get in Touch
