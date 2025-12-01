@@ -3,7 +3,7 @@
 </p>
 
 - 👋 Hi, I’m 0xefe4
-- 🎓 Master’s student in Computer Science @ University of Passau
+- 🎓 Master’s student in Computer Science 
 - 👀 I’m interested in Security research & low-level systems & Windows kernel driver development
 - 🌱 I’m currently learning about many things $ Rootkits, EDRs, and hypervisor-based security tooling
 - 🏃‍➡️ I'm currently building:
